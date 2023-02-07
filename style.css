@@ -1,5 +1,9 @@
 #navbar {
     width: 100%;
+    color:black;
+    Font: 16px "Times New Roman";
+    background: #f5f5dc;
+    padding: 10px;
 }
 #banner {
     width: 100%;
@@ -12,3 +16,21 @@
 table {
     border:3px solid black
 }
+
+nav , ul {
+    list-style-type: none;
+}
+
+nav, ul {
+    display:inline
+}
+
+main ul {
+    list-style-type: none;
+}
+
+ul {
+    list-style-type: none;
+ }
+ 
+ 
